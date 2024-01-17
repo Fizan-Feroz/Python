@@ -23,3 +23,4 @@ with open(fname,'r')as f:
     print("consonants",cc)
     print("low",vc)
     print("upper",uc)
+    vvv=00
